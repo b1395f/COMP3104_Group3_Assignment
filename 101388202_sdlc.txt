@@ -1,3 +1,4 @@
 COMP 3104 Information:
 The evaluation system of COMP 3104 - DevOps utilizes the following lab exercises, lecture quizzes,
 one individual assignment, one group assignment, a midterm exam, and a final exam. 
+
