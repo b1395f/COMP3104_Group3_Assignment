@@ -1,0 +1,2 @@
+DevOps is very important as it's goal is to improve collaboration
+between all teams by reducing the time needed to deploy features or fix bugs
