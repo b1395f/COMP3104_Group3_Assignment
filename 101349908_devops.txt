@@ -1,3 +1,5 @@
-COMP 3104 is a George Brown College course that teaches us about DevOps,
+COMP 3104 DevOps is a George Brown College course that teaches us about Development and Operation’s Collaboration,
 this course teaches us about the procedures, protocols, and the best practices that we could bring
-to our workplace environment to improve productivity.  
+to our workplace environment to improve productivity. Analyze and evaluate
+various developer operation implementations available and implement hands-on work using
+industry standard toolkit. 
