@@ -1,4 +1,4 @@
-The classrooms in George Brown are codded by 3 factors,
-their building letter, their floor lever, and finally their room number.
+The classrooms in George Brown College are codded by 3 factors,
+their building letter, their floor level, and finally their room number.
 For example, if a classrooms takes place in room E420, it means that the class is in
 building E, level 4, room 20
