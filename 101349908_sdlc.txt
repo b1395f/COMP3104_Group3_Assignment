@@ -1,4 +1,11 @@
-DevOps is very important as it's goal is to improve collaboration
-between all teams by reducing the time needed to deploy features or fix bugs.
-This allows the projects to be updated with less issues and be capable of meeting 
-deadlines without any trouble. 
+Learning DevOps as a software engineer is a very crucial knowledge in today's software development landscape. 
+DevOps assist in many ways when it comes to the software development cycle:
+Faster Software Delivery
+Improved Collaboration
+Increased Reliability
+Cost Reduction
+Monitoring and Feedback
+Security
+Better Quality Assurance
+Enhanced Developer Experience
+Alignment with Modern Technologies
